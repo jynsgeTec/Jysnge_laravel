@@ -11,6 +11,22 @@
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
 
+
+        <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png')}}">
+
+        <link rel="icon" type="image/png" sizes="32x32" media="(prefers-color-scheme: dark)"
+                href="{{URL ('assets/media/favicon-32x32-dark-mode.png')}}">
+        <link rel="icon" type="image/png" sizes="16x16" media="(prefers-color-scheme: dark)"
+                href="{{URL ('assets/media/favicon-16x16-dark-mode.png')}}">
+        <link rel="icon" type="image/png" sizes="32x32" media="(prefers-color-scheme: light)"
+                href="{{URL ('assets/media/favicon-32x32.png')}}">
+        <link rel="icon" type="image/png" sizes="16x16" media="(prefers-color-scheme: light)"
+                href="{{URL ('assets/media/favicon-16x16.png')}}">
+
+
+
+        <link rel="stylesheet" href="{{ url ('/assets/app-DDAX_FZV.css')}}">
+
     </head>
 
 
